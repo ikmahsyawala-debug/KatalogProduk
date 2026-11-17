@@ -24,7 +24,7 @@ Setiap produk memiliki informasi berupa nama produk, harga, dan foto produk yang
 Buka terminal atau Command Prompt, kemudian jalankan perintah berikut:
 
 ```bash
-git clone https://github.com/lannmhrni/KatalogProduk.git
+git clone https://github.com/ikmahsyawala-debug/KatalogProduk.git
 ```
 
 ### 2. Masuk ke Direktori Project
@@ -86,4 +86,3 @@ Menampilkan katalog setelah informasi produk berhasil diperbarui.
 
 ---
 
-**Dikembangkan menggunakan Java, JavaFX, Maven, dan SQLite.**
